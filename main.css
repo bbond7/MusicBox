@@ -14,6 +14,7 @@ h2 {
     justify-content: center;
 }
 
+
 #a_note_box {
     width: 100px;
     height: 100px;
@@ -23,6 +24,9 @@ h2 {
     margin: 2px;
     opacity: 0.5;
 }
+#a_note_box:hover {
+    background-color: #661920;
+}
 #b_note_box {
     width: 100px;
     height: 100px;
@@ -30,6 +34,10 @@ h2 {
     border-color: #422018;
     margin: 2px;
     opacity: 0.5;
+}
+
+#b_note_box:hover  {
+    background-color: #6e2819;
 }
 #c_note_box {
     width: 100px;
@@ -39,6 +47,10 @@ h2 {
     margin: 2px;
     opacity: 0.5;
 }
+
+#c_note_box:hover {
+    background-color: #735b20;
+}
 #d_note_box {
     width: 100px;
     height: 100px;
@@ -46,6 +58,10 @@ h2 {
     border-color:#193c29;
     margin: 2px;
     opacity: 0.5;
+}
+
+#d_note_box:hover {
+    background-color: #1b613b;
 }
 #e_note_box {
     width: 100px;
@@ -55,6 +71,10 @@ h2 {
     margin: 2px;
     opacity: 0.5;
 }
+
+#e_note_box:hover {
+    background-color:#184d65;
+}
 #f_note_box {
     width: 100px;
     height: 100px;
@@ -63,6 +83,10 @@ h2 {
     margin: 2px;
     opacity: 0.5;
 }
+
+#f_note_box:hover {
+    background-color: #4e2753;
+}
 #g_note_box {
     width: 100px;
     height: 100px;
@@ -70,4 +94,8 @@ h2 {
     border-color:#43293d;
     margin: 2px;
     opacity: 0.5;
+}
+
+#g_note_box:hover {
+    background-color:#6f3a62;
 }
